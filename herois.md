@@ -6,3 +6,4 @@
 * Aquaman
 * Mujer Maravilla
 * Jessica jones
+* Fran Alonso
